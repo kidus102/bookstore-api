@@ -1,0 +1,17 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "simple bookstore app",
+  "license": "ISC",
+  "author": "kidus",
+  "type": "commonjs",
+  "main": "app.js",
+  "dependencies":{
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
